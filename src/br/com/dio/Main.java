@@ -28,10 +28,15 @@ package br.com.dio;
  *      Mútiplas a filha tem mais de uma mãe
  *      herança upcast e downcast
  *      Polimorfismo, um mesmo método, mas se comportando de formas diferentes.
- *      Sobrescrita
+ *      Sobrescrita0
+ * Associação, classse e objetos podem pedir ajudar a outras classe e a outro objetos
+ *  Tipo de associação:
+ *      Estrutural:
+ *          Composição
+ *          Agregação
+ *      Comportamental:
+ *          Dependência
  *
- *
- * Associação
  * Interface
  *
  *
